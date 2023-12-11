@@ -11,12 +11,12 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
+		openWindow('https://sites.google.com/view/youdontknowwhoiam1');
+		openWindow('https://sites.google.com/view/youdontknowwhoiam1');
+		openWindow('https://sites.google.com/view/youdontknowwhoiam1');
+		openWindow('https://sites.google.com/view/youdontknowwhoiam1');
+		openWindow('https://sites.google.com/view/youdontknowwhoiam1');
+		openWindow('https://sites.google.com/view/youdontknowwhoiam1');
 		}
 
 function newXlt(){
